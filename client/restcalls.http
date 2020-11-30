@@ -1,0 +1,10 @@
+GET https://www.metaweather.com/api/location/search/?query=prague HTTP/1.1
+Content-Type: application/json
+
+### 
+
+GET http://www.metaweather.com/api/location/796597/ HTTP/1.1
+Content-Type: application/json
+
+###
+
