@@ -20,3 +20,9 @@ then,
 
 The app successfully runs..
 
+
+
+NOTE: 
+1. This app only has a basic MongoDB connection. Feel free to comment the code from index.js inside server folder, for the server to work without using mongoose.
+
+2. metaweather API is no longer active. Fetching weather data doesn't work anymore. Feel free to use any other weather APIs.
